@@ -1,0 +1,14 @@
+{
+    "name": "dwd/openim-sdk-php",
+    "description": "taobao openim sdk for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangchao",
+            "email": "iknowapp@163.com"
+        }
+    ],
+    "autoload": {
+        "files": ["TopSdk.php"]
+    }
+}
